@@ -1,4 +1,4 @@
 
 def roll
-  rand
+  rand()
 end
